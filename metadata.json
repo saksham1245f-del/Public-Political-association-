@@ -1,0 +1,6 @@
+{
+  "name": "Lok Shakti Campaign",
+  "description": "An immersive, realistic political campaign and governance simulation game set in India. Draft custom policy solutions, manage resources, and win the hearts of voters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
